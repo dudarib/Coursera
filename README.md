@@ -1,1 +1,1 @@
-"# Coursera" 
+"# Coursera - Machine Learning Course #" 
